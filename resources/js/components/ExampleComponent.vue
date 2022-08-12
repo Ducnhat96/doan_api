@@ -6,6 +6,8 @@
                     <div class="card-header">Example Component</div>
 
                     <div class="card-body">I'm an example vue Component.</div>
+                    <div class="card-body">I'm an example vue Component 2.</div>
+                    <div class="card-body">I'm an example vue Component 3.</div>
                 </div>
             </div>
         </div>
